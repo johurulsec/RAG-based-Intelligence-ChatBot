@@ -67,7 +67,7 @@ def answer_question(question):
     }
 
 # Streamlit UI
-st.title("Website ChatBot Bulipe Tech")
+st.title("Website ChatBot of Software company")
 
 st.markdown("Ask any question ")
 
@@ -108,7 +108,7 @@ if st.button("Get Answer") and question_input:
     </style>
 
     <div class="footer-container">
-        <div class="scrolling-text">Developed by Rezaul Karim</div>
+        <div class="scrolling-text">Developed by Md Johurul Islam</div>
     </div>
    """, unsafe_allow_html=True)
 
