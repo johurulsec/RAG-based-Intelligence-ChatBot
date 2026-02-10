@@ -1,0 +1,6 @@
+nltk
+sentence-transformers
+faiss-cpu
+transformers
+flask
+beautifulsoup4
